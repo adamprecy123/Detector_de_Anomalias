@@ -46,7 +46,7 @@ Este projeto foi desenvolvido para exercitar conceitos de **Data Science**, **ma
 ## 🔗 Acesse
 
 > 🚧 Caso deseje ver o projeto online, acesse:
-[streamlit.io](https://share.streamlit.io/) (adicione aqui quando subir)
+[streamlit.io](https://detectordeanomalias-74rq2saypsappz9hntzedly.streamlit.app/)
 
 ## 📩 Contato
 
